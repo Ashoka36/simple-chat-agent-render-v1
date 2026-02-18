@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+jenja2
+pydantic
